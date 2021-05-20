@@ -22,4 +22,6 @@ Average speed = 60 mph
 
 Max capacity for all cars = 3 passengers
 
+We assume that at the begining, all cars are at the origin (0,0).
+
 The heuristic is very simple: we pick a ticket and try to insert it into the route of a car that has already been used. If it is not possible, then we will use a  new car and insert the ticket into the route of that car.
