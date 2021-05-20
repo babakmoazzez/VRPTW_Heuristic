@@ -1,4 +1,6 @@
-# Dial_A_Ride_Heuristic
+# VRPTW_Heuristic
+
+This is a dial-a-ride problem (DARP) which can be thought of as a special case of vehicle routing problem with time windows (VRPTW).
 
 On a single day, there are five costumers who want to travel: Walt, Skyler, Jessie, Gus, and Saul.  Each have a number of trips at various times of the day.
 The goal is to create a schedule for cars to fulfill all of their trips, using min number of cars.  All trips can be shared rides and cars have a certain capacity. 
